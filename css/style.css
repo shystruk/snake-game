@@ -14,3 +14,20 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+.score-block > div {
+    text-align: left;
+}
+
+.restart {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #10a518;
+    color: #fff;
+    cursor: pointer;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.restart:hover {
+    background: #1c8411;
+}
