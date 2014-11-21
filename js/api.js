@@ -28,9 +28,9 @@ GAME.start = (function () {
         replayAction,
         isGameOver,
         finalScore,
+        score = 0,
         scoreText = document.querySelector('#score'),
-        restartBtn = document.querySelector('.restart'),
-        score = 0;
+        restartBtn = document.querySelector('.restart');
 
     //init
     api.init = function () {
