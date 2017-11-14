@@ -1,4 +1,4 @@
-Snake-by-JavaScript
+Snake
 ===================
 
 Snake Game by JavaScript Canvas
