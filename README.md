@@ -11,7 +11,7 @@ HTML5 Canvas is an extremely fast and flexible drawable area on screen that can 
 
 Information
 ============
-If you have some questions, problems or improvement, create issues and we will discuss.<br/>
+If you have some questions, improvements, create an issue and we will discuss.<br/>
 Thank you!
 
 License
